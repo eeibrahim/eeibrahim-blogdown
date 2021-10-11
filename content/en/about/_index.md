@@ -1,10 +1,14 @@
 ---
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ""
-title: About
----
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+description: 'My name is Elfadil Ibrahim, I am an aspiring Data Analyst. I built this site using R,netlify and Github to showcase my abilities in R and Data Analytics more generally. Please see below an interactive resume with more information on my background. Hope you enjoy the website and its contents!'
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+featured_image: "https://wallpaperaccess.com/full/2855890.jpg"
+title: About me
+---
+
+
+{{< figure src="/images/me-dxb.jpg"  title="This is me" >}}
+
+
+
+
+

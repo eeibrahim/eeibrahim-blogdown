@@ -1,6 +1,7 @@
 ---
-description: The last theme you'll ever need. Maybe.
-featured_image: /images/gohugo-default-sample-hero-image.jpg
-title: 'Ananke: a Hugo Theme'
+title: Elfadil Ibrahim's Data Analysis Portfolio
+author: ''
+date: '2021-10-10'
+featured_image: /images/sing.jpg
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blogdown with some of my personal projects.
