@@ -18,6 +18,6 @@ https://docs.google.com/spreadsheets/d/1BvuCTZFIPqAG_8fcKODTAuWUO86eLPRA_id9LpWs
 
 I hope to also add a Watchlist section for stocks that I am thinking to purchase, I am also considering importing headlines about these watchlist stocks in another tab so that I could get a better measure of sentiment surrounding these stocks, in addition to targeted analyses of these companies. 
 
-The portfolio tracker mimicks a lot of the functionalities I have in my brokerage account, but is better organized and is customized by myself so that navigation is much easier as is access.
+The portfolio tracker mimicks a lot of the functionalities I have in my brokerage account, but is better organized and is customized by myself so that navigation is much easier, as is access.
 
 
