@@ -12,12 +12,12 @@ I had a lot of fun creating this project. I did it following the following youtu
 
 https://www.youtube.com/watch?v=qtY1NOVQ6iE
 
-The video explains and teaches how to write functions using the GoogleFinance function which are turned out to be less intimidating than one might think. The video also highlights practical uses of conditional formatting and data validation. For a deeper look, check out my stock tracker here: 
+The video explains and teaches how to write functions using the GoogleFinance function which turned out to be less intimidating than one might think. The video also highlights practical uses of conditional formatting and data validation. For a deeper look, check out my stock tracker here: 
 
 https://docs.google.com/spreadsheets/d/1BvuCTZFIPqAG_8fcKODTAuWUO86eLPRA_id9LpWsI04/edit?usp=sharing
 
-I hope to also add a Watchlist section for stocks that I am thinking to purchase, I am also considering importing headlines about these watchlist stocks in another tab so that I could get a better measure of sentiment surrounding these stocks, in addition to targeted analyses of these companies. 
+I have a few additions in mind. Firstly, a Watchlist section for stocks that I am thinking to purchase.Secondly, I am also considering importing headlines about these watchlist stocks in another tab so that I could get a better measure of sentiment surrounding these stocks,in addition to targeted analyses of these companies. 
 
-The portfolio tracker mimicks a lot of the functionalities I have in my brokerage account, but is better organized and is customized by myself so that navigation is much easier, as is access.
+The portfolio tracker mimics a lot of the functionalities I have in my brokerage account, but is better organized and is customized by myself so that navigation is much easier, as is access.
 
 
