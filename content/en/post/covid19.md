@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 (Top 20 Countries Affected)"
+title: "Covid-19 (Top 20 Countries Affected) using R"
 description: Where have most recorded cases and death occured?
 date: '2020-10-10'
 tags:
