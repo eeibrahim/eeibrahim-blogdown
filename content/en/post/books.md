@@ -14,7 +14,7 @@ I was gifted a kindle which made reading easier and more accessible. After compl
   Below is a snap shot of what I read this year:
   
 
-  ![](/en/post/books_files/Booksread.png)
+    ![](/en/post/books_files/Booksread.png)
   
     ![](/en/post/books_files/booksread2.png)
 
