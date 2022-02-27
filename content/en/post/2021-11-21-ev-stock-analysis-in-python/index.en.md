@@ -149,7 +149,7 @@ plt.show()
 
 ```
 
-In this case, I am displaying free cash flow, and when I want to visualize other aspects, I can simply replace df.feeCashflow wit the other fundamentals.
+In this case, I am displaying free cash flow, and when I want to visualize other aspects, I can simply replace df.feeCashflow with the other fundamentals.
 
 ![](images/fcf.png)
 
@@ -170,3 +170,4 @@ After visualizing different aspects of the data table, I gained some pretty impo
 * There is no clear winner here and the financial picture is certainly not encouraging for most of these stocks, however once they enter the mass-production stage things will be very different and I imagine serious money will be made. **Based on this analysis and other qualitative research done, I will invest some money into Xpeng.**
 
 ![](images/xpeng.jpg)
+!![](images/trade.png)
