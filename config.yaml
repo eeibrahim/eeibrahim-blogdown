@@ -1,7 +1,7 @@
 title: Notre-Dame de Paris
 baseURL: https://eeibrahim-blogdown.netlify.app/
 languageCode: en-us
-theme: "ananke"
+theme: "gohugo-theme-ananke"
 resourceDir: ../resources
 DefaultContentLanguage: en
 SectionPagesMenu: main
