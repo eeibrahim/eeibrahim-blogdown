@@ -6,7 +6,7 @@ featured_image: https://www.northeastern.edu/graduate/blog/wp-content/uploads/20
 ---
 My name is Elfadil Ibrahim, I am a 3x Certified Salesforce Administrator and I built this site using  Rstudio (as well as netlify and Github) to showcase my abilities in Programming, Data Analytics and the Salesforce CRM.
   
-My interest in computers and data formally started when I completed The Google Data Analytics Professional Certificate in 2021. Through that course I learned the basics of R, SQL and Excel. Since then I transitioned into a career working with Data as a Salesforce/Data Operations Administrator where I regularly use the knowledge I gained from that certificate program.
+My interest in computers and data formally started when I completed The Google Data Analytics Professional Certificate in 2021. Through that course I learned the basics of R, SQL and Excel. Since then I transitioned into a career working with Data as a Salesforce/Data Operations Administrator where I regularly use the knowledge I gained from that certificate program and have continued to build on it by learning python and later, the basics of Salesforce.
 
 The world of data, programming and software is, of course, very deep and I still have a lot to learn. This is why I still make updates here for myself and for anyone interested in things I work on and the knowledge I gain.
 
